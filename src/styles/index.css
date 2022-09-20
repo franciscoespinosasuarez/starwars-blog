@@ -1,3 +1,10 @@
 /* 
     General Styles
 */
+body{
+    background-color: #282C2F;
+}
+
+.pointer{
+    cursor: pointer;
+}
